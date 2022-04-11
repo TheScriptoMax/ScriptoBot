@@ -8,5 +8,5 @@
 
 
 <h3 align="left"> Embed "card" post on command  </h3>
-<img align="right" src="https://i.postimg.cc/CxFsL4bb/Capture-d-cran-82.png" alt="screen discord bot" />
+<img align="left" src="https://i.postimg.cc/CxFsL4bb/Capture-d-cran-82.png" alt="screen discord bot" />
 
